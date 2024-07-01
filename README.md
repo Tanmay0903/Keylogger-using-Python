@@ -20,7 +20,8 @@ This project focuses on educating users about the dangers of keyloggers, how the
 **Requirements**
 
    Python 3.x
-    pynput library (pip install pynput)
+   
+   pynput library (pip install pynput)
 
 **Usage**
     
@@ -32,8 +33,8 @@ Install Dependencies:
 
     python keylogger.py
 
-
-     **The script will start logging keystrokes. Press 'esc' to stop logging.**
+ 
+   **The script will start logging keystrokes. Press 'esc' to stop logging.**
 
 Security Note
 
