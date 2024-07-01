@@ -36,7 +36,7 @@ Install Dependencies:
  
    **The script will start logging keystrokes. Press 'esc' to stop logging.**
 
-Security Note
+**Security Note**
 
 Use with Caution: This keylogger is intended for educational purposes to raise awareness about cybersecurity threats. Ensure you have appropriate permissions before running this script on any device.
 
