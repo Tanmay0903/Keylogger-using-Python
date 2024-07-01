@@ -19,19 +19,16 @@ This project focuses on educating users about the dangers of keyloggers, how the
 
 **Requirements**
 
-    Python 3.x
+   Python 3.x
     pynput library (pip install pynput)
 
 **Usage**
     
 Install Dependencies:
-    **bash**
-    
+   
     pip install pynput
 
 **Run the Script:**
-
-bash
 
     python keylogger.py
 
